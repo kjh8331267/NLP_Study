@@ -4,7 +4,7 @@
 |일자|발표자|주제|유형|
 |------|---|:---|---|
 |2024.01.11|김지현|RNN 및 seq2seq(시퀀스투시퀀스)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/RNN(%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D)%20%EB%B0%8F%20seq2seq(%EC%8B%9C%ED%80%80%EC%8A%A4%ED%88%AC%EC%8B%9C%ED%80%80%EC%8A%A4).pdf)|
-||조정효|Embedding-word2vec|코드|
+||조정효|Embedding-word2vec|[코드](https://github.com/jo-cho/nlp_study/blob/main/1_NLP_SUANLAB/_07_%EC%9E%84%EB%B2%A0%EB%94%A9(Embedding).ipynb)|
 2024.01.18|김지현|Attention Mechanism(어텐션 메커니즘)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Attention%20Mechanism(%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98).pdf)|
 ||조정효|Embedding-word2vec|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/word_embedding.pdf)|
 2024.01.28|김지현|Attention Mechanism(어텐션 메커니즘)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Attention%20Mechanism(%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98).pdf)|
@@ -13,5 +13,5 @@
 ||조정효|한국은행 뉴스심리지수|[사례](https://github.com/jo-cho/nlp_study/blob/main/3_PAPERS/summary/%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89%20%EB%89%B4%EC%8A%A4%EC%8B%AC%EB%A6%AC%EC%A7%80%EC%88%98(NSI).pdf)|
 2024.02.20|김지현|Transformer-인코더까지|[이론 및 코드](https://github.com/kjh8331267/NLP_study/blob/main/slide/Transformer(%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8).pdf)
 2024.02.27|김지현|Transformer-디코더 및 종합|[이론 및 코드](https://github.com/kjh8331267/NLP_study/blob/main/slide/Transformer(%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8).pdf)
-||조정효|LSA, LDA 등 Topic Modeling|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/topic_modeling.pdf) 및 코드
+||조정효|LSA, LDA 등 Topic Modeling|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/topic_modeling.pdf) 및 [코드](https://github.com/jo-cho/nlp_study/blob/main/1_NLP_SUANLAB/_06_%ED%86%A0%ED%94%BD_%EB%AA%A8%EB%8D%B8%EB%A7%81(Topic_Modeling).ipynb)
 2024.03.14|김지현|Network Community Detection-louvain알고리즘|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Transformer(%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8).pdf)|
