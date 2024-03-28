@@ -16,5 +16,5 @@
 ||조정효|Topic Modeling-LSA, LDA|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/topic_modeling.pdf) 및 [코드](https://github.com/jo-cho/nlp_study/blob/main/1_NLP_SUANLAB/_06_%ED%86%A0%ED%94%BD_%EB%AA%A8%EB%8D%B8%EB%A7%81(Topic_Modeling).ipynb)
 2024.03.14|김지현|Network Community Detection-louvain알고리즘|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Transformer(%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8).pdf)|
 |2024.03.20|조정효|Topic Modeling-LDA 심화|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/topic_modeling.pdf) 및 [시각화](https://github.com/jo-cho/eitm/blob/main/text_analysis/lda_epic.html)|
-|2024.03.28|김지현|NLP에서의 사전학습 및 BERT|이론 및 코드|
+|2024.03.28|김지현|NLP에서의 사전학습 및 BERT|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/BERT.pdf) 및 [코드](https://github.com/kjh8331267/NLP_study/blob/main/code/240328_BERT%20%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80.ipynb)|
  
