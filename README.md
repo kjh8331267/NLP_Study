@@ -18,6 +18,6 @@
 |2024.03.20|조정효|Topic Modeling-LDA 심화|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/topic_modeling.pdf) 및 [시각화](https://github.com/jo-cho/eitm/blob/main/text_analysis/lda_epic.html)|
 |2024.03.28|김지현|NLP에서의 사전학습 및 BERT|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/BERT.pdf) 및 [코드](https://github.com/kjh8331267/NLP_study/blob/main/code/240328_BERT%20%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80.ipynb)|
 |2024.04.04|조정효|Graph Representation Learning(그래프머신러닝) 1.Introduction|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_01.html)|
-||조정효|GRL 2-1.Graph Statistics and Kernel Methods(그래프 통계량과 커널 방법)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_1.html)|
-||조정효|GRL 2-2.Neighborhood Overlap Detection(이웃 중복 감지)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_2.html)|
-||조정효|GRL 2-3.Graph Laplacians and Spectral Methods(그래프 라플라시안과 스펙트럴 방법)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_3.html)|
+|||GRL 2-1.Graph Statistics and Kernel Methods(그래프 통계량과 커널 방법)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_1.html)|
+|||GRL 2-2.Neighborhood Overlap Detection(이웃 중복 감지)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_2.html)|
+|||GRL 2-3.Graph Laplacians and Spectral Methods(그래프 라플라시안과 스펙트럴 방법)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_3.html)|
