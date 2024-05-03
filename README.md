@@ -22,3 +22,6 @@
 |||GRL 2-2.Neighborhood Overlap Detection(이웃 중복 감지)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_2.html)|
 |||GRL 2-3.Graph Laplacians and Spectral Methods(그래프 라플라시안과 스펙트럴 방법)|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_02_3.html)|
 |2024.04.22|김지현|Attention Is All You Need (Transformer)|[논문리뷰](https://github.com/kjh8331267/Paper_Review/issues/2)
+|2024.05.03|조정효|GRL 3-1.An Encoder-Decoder Perspective|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_03_1.html)
+|||GRL 3-2.Embedding Methods|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_03_2.html)
+|||GRL 3-3.Multi-Relational Data and Knowledge Graphs|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_04_1.html)
