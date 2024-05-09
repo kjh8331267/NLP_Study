@@ -3,8 +3,8 @@
 
 |일자|발표자|주제|유형|
 |------|---|:---|---|
-|2024.01.11|kjh|RNN 및 seq2seq(시퀀스투시퀀스)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/RNN(%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D)%20%EB%B0%8F%20seq2seq(%EC%8B%9C%ED%80%80%EC%8A%A4%ED%88%AC%EC%8B%9C%ED%80%80%EC%8A%A4).pdf)|
-||jo-cho|Embedding-word2vec|[코드](https://github.com/jo-cho/nlp_study/blob/main/1_NLP_SUANLAB/_07_%EC%9E%84%EB%B2%A0%EB%94%A9(Embedding).ipynb)|
+|2024.01.11|[kjh](https://github.com/kjh8331267)|RNN 및 seq2seq(시퀀스투시퀀스)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/RNN(%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D)%20%EB%B0%8F%20seq2seq(%EC%8B%9C%ED%80%80%EC%8A%A4%ED%88%AC%EC%8B%9C%ED%80%80%EC%8A%A4).pdf)|
+||[jo-cho](https://github.com/jo-cho)|Embedding-word2vec|[코드](https://github.com/jo-cho/nlp_study/blob/main/1_NLP_SUANLAB/_07_%EC%9E%84%EB%B2%A0%EB%94%A9(Embedding).ipynb)|
 2024.01.18|kjh|Attention Mechanism(어텐션 메커니즘)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Attention%20Mechanism(%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98).pdf)|
 ||jo-cho|Embedding-word2vec|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/word_embedding.pdf)|
 2024.01.28|kjh|Attention Mechanism(어텐션 메커니즘)|[이론](https://github.com/kjh8331267/NLP_study/blob/main/slide/Attention%20Mechanism(%EC%96%B4%ED%85%90%EC%85%98%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98).pdf)|
