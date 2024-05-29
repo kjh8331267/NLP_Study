@@ -27,4 +27,4 @@
 |||GRL 3-3.Multi-Relational Data and Knowledge Graphs|[이론](https://jo-cho.github.io/FinBlog/posts/machine_learning/GRL_04_1.html)|
 |2024.05.09|kjh|BERT|[논문리뷰](https://github.com/kjh8331267/Paper_Review/issues/3)|
 |2024.05.16|jo-cho|A domain-specific LLM|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
-|2024.05.23|jo-cho|RAG|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
+|2024.05.23||RAG|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
