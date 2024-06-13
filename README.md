@@ -28,3 +28,5 @@
 |2024.05.09|kjh|BERT|[논문리뷰](https://github.com/kjh8331267/Paper_Review/issues/3)|
 |2024.05.16|jo-cho|A domain-specific LLM|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
 |2024.05.23||RAG|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
+|2024.06.13|kjh|BERTopic 개요|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/BERTopic_%EA%B0%9C%EC%9A%94.pdf)|
+|||DBSCAN 이론|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/DBSCAN.pdf)|
