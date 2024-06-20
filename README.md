@@ -30,4 +30,4 @@
 |2024.05.23||RAG|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Domain-specific%20LLMs.pdf)|
 |2024.06.13|kjh|BERTopic 개요|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/BERTopic_%EA%B0%9C%EC%9A%94.pdf)|
 |||DBSCAN 이론|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/DBSCAN.pdf)|
-|2024.06.20|jo-cho|정부 보도자료 기반 경제정책 불확실지수의 KOSPI 방향 예측 중요도 분석|[코드](https://colab.research.google.com/github/jo-cho/eitm/blob/main/text_analysis/EPIC_Keyword_Plot.ipynb)|
+|2024.06.20|jo-cho|정부 보도자료 기반 경제정책 불확실지수의 KOSPI 방향 예측 중요도 분석|[코드](https://colab.research.google.com/github/jo-cho/eitm/blob/main/text_analysis/epic_stock_market.ipynb)|
