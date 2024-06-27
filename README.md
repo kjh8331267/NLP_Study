@@ -31,3 +31,4 @@
 |2024.06.13|kjh|BERTopic 개요|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/BERTopic_%EA%B0%9C%EC%9A%94.pdf)|
 |||DBSCAN 이론|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/DBSCAN.pdf)|
 |2024.06.20|jo-cho|랜덤포레스트를 이용한 클러스터 변수중요도 분석|[코드](https://colab.research.google.com/github/jo-cho/eitm/blob/main/text_analysis/epic_stock_market.ipynb)|
+|2024.06.27|kjh|HDBSCAN 이론|이론|
