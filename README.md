@@ -1,5 +1,5 @@
 # NLP_study
-자연어처리 스터디(2023.12~) 
+자연어처리 스터디(2023.12~2024.07) 
 
 |일자|발표자|주제|유형|
 |------|---|:---|---|
@@ -33,3 +33,4 @@
 |2024.06.20|jo-cho|랜덤포레스트를 이용한 클러스터 변수중요도 분석|[코드](https://colab.research.google.com/github/jo-cho/eitm/blob/main/text_analysis/epic_stock_market.ipynb)|
 |2024.06.27|kjh|HDBSCAN|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/HDBSCAN.pdf) 및 [코드](https://github.com/kjh8331267/News_NLP_Test/blob/main/hdbscan_clustering.ipynb)|
 |2024.07.11|jo-cho|Langchain:LLM Framework|[이론](https://github.com/jo-cho/nlp_study/blob/main/4_PPTS/Langchain.pdf)|
+|2024.07.18|kjh|BERTopic|[이론](https://github.com/kjh8331267/NLP_Study/blob/main/slide/BERTopic.pdf)|
